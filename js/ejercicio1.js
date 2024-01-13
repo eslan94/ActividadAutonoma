@@ -33,5 +33,4 @@ function operaciones() {
     }
 }
 
-// Llamar a la función principal
 operaciones();
